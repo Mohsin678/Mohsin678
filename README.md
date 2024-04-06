@@ -8,14 +8,12 @@
 - 🌱 I’m currently learning Mastering generative AI with OpenAI,Langchain and LLamaIndex
 - 📫 How to reach me: Mohsin79.kh@gmail.com
 
+<br><br><br>
 
-<br><br/><br></br><br></br>
-
-
-
+<h3 align="left">Languages and Tools:</h3>
 
 
-
+<br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsin678&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mohsin678" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohsin678&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
