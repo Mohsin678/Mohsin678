@@ -2,6 +2,7 @@
 
 <img align = "right" alt="coding" width="400" src= "gig1.gif" />
 <h1 align="center">Hi 👋, I'm Mohsin Khan</h1>
+<h3 align="center">A passionate FullStack Data scientist</h3>
 
 <!--
 **Mohsin678/Mohsin678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
