@@ -1,3 +1,4 @@
+<img src = "/minimalist.png" alt="banner"/>
 ### Hi there 👋
 
 <!--
