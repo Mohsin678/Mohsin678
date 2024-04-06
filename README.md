@@ -1,7 +1,7 @@
 <img src = "/minimalist.png" alt="banner"/>
 
 <img align = "right" alt="coding" width="400" src= "gig1.gif" />
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohsin Khan</h1>
 
 <!--
 **Mohsin678/Mohsin678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
