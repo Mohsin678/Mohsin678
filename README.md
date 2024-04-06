@@ -1,8 +1,12 @@
 <img src = "/minimalist.png" alt="banner"/>
 
-<img align = "right" alt="coding" width="400" src= "gig1.gif" />
 <h1 align="center">Hi 👋, I'm Mohsin Khan</h1>
 <h3 align="center">A passionate FullStack Data scientist</h3>
+<img align = "right" alt="coding" width="400" src= "gig1.gif" />
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohsin678&label=Profile%20views&color=0e75b6&style=flat" alt="Mohsin678" /> </p>
 
 - 🔭 I’m currently working on Custom chatbot using LLama
 - 🌱 I’m currently learning Mastering generative AI with OpenAI,Langchain and LLamaIndex
