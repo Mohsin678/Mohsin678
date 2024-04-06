@@ -1,4 +1,6 @@
 <img src = "/minimalist.png" alt="banner"/>
+
+<img align = "right" alt="coding" width="400" src= "gig1.gif" />
 ### Hi there 👋
 
 <!--
