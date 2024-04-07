@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning Mastering generative AI with OpenAI,Langchain and LLamaIndex
 - 📫 How to reach me: Mohsin79.kh@gmail.com
 
-  <h3 align="left">Connect with me:</h3>
   
   
 
