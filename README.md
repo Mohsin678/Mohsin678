@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohsin678&label=Profile%20views&color=0e75b6&style=flat" alt="Mohsin678" /> </p>
 
-- 🔭 I’m currently working on Custom chatbot using LLama
-- 🌱 I’m currently learning Mastering generative AI with OpenAI,Langchain and LLamaIndex
+- 🔭 I’m currently working on to develop my front end development skills using React
+
 - 📫 How to reach me: Mohsin79.kh@gmail.com
 
   
